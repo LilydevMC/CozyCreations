@@ -1,0 +1,116 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "7213c1f85dede9a36f77d4a0064a1c6aae79bcb4e281ae5d6d8698793ddda046"
+metafile = true
+
+[[files]]
+file = "mods/blahaj.pw.toml"
+hash = "9c3fa6643bf554a030040c80f6397d1cb3b40b460b3dcb72277d83e3a6ee72a2"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
+metafile = true
+
+[[files]]
+file = "mods/colytra.pw.toml"
+hash = "791db15beaace586d409bc1c6618605038e04f9e732fc9ae52d0e1f4276e8ca7"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "e1281e7858663cb1ef53f91e56005ea165f7d95473e12891db40f3266cf755e1"
+metafile = true
+
+[[files]]
+file = "mods/enchancement.pw.toml"
+hash = "e329a52a7234b2504062c3e22bc954acc6e470134b07069dfe4ec383078129e0"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "e160cd9f6d5beb781af38f9b75b88002a5bd65daa566fb3fc3a1e1e036a4c229"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "a60f50e7c0ae6420e4a36f4e2fabaa4663bf79236531c1b23fd9c425121b2203"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
+file = "mods/qkl.pw.toml"
+hash = "47217cc1489533f668d622f2078351a61873be573311a9a94be7293328a849a7"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "a41dbddd6d8d0500fe2dfaa5115ea56393ce8556372da24633ef681273f4dc3c"
+metafile = true
+
+[[files]]
+file = "mods/rainglow.pw.toml"
+hash = "952bd5f72add56e7ecfce0e74dec6fcfa1b5b45eb8d69ba580998764b7ef395b"
+metafile = true
+
+[[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "c43e60b6454158457ae778da78627e3cdcd452c3411702337c10c72b95064df1"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "afa454ad1d2a4b3af693b4fda8ceeca616ac895257b8dd2a1a0d5db330d9314f"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "4e691c86059e755a026b8cae8cf0c66396dc39bf47b6c71980589101803ecd36"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "3decc297ef37c1ecb820b095d076dfa04e5c2d16a29e165f27c911a80d2e4afd"
+metafile = true
+
+[[files]]
+file = "mods/things.pw.toml"
+hash = "d64f9f83a62065408e07264e23026c3ceea8d9ee762503e35786f7c2b793579a"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "9f6d01028472394a8c3120f1e2a0229d09c77069bdca793159fecc6074aae394"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "c9a63c67893610e550c893c89ac485b4b0778ad1783f0e8705a63b458f57e96f"
+metafile = true

@@ -1,0 +1,13 @@
+name = "Colytra"
+filename = "colytra-quilt-6.2.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ulY7WPQy/versions/gculP73X/colytra-quilt-6.2.1%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "6d9b12a9af5a1cbce7ff93bc416af573f53a0087"
+
+[update]
+[update.modrinth]
+mod-id = "ulY7WPQy"
+version = "gculP73X"

@@ -1,0 +1,10 @@
+# exclude exported curseforge/modrinth packs
+*.zip
+*.mrpack
+
+README.md
+/icon.png
+
+# exclude aseprite project files
+aseprite
+
