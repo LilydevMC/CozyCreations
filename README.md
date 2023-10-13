@@ -1,1 +1,7 @@
-Personal Quilt modpack made for a couple (ha) of my friends, somewhat built on [Additive](https://modrinth.com/modpack/additive).
+![Cozy Creations project banner](/assets/project_banner.png)
+
+Cozy Quilt modpack, using [Additive](https://modrinth.com/modpack/additive) as a reference.
+
+## License
+
+Licensed under the [MIT License](/LICENSE).

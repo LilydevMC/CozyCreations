@@ -1,2 +1,5 @@
 *.zip
 *.mrpack
+
+# exclude Affinity Photo lock files
+**/*.afphoto~lock~

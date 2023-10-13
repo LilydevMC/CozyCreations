@@ -8,3 +8,5 @@ README.md
 # exclude aseprite project files
 aseprite
 
+# exclude assets not required
+/assets
