@@ -21,8 +21,12 @@ file = "config/yosbr/config/modmenu.json"
 hash = "4eeaf979b4770fef4380d3f033d820379d83e719657f5f32ee2b24f5e09b1d37"
 
 [[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "a04078f51bde9c60ffc8b4c3c1f1828849ab473df58b40d0de825ff8371fd345"
+
+[[files]]
 file = "config/yosbr/options.txt"
-hash = "210726190a80eb48b42e1876919820da2ace7672257593e3b7e912c9c7758051"
+hash = "e35beaefa5500d798a038e1653854e516c2b1e2d4dbdd2598ac5422c58644f13"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryUnbound_r5.0.1.zip.txt"
@@ -214,11 +218,6 @@ hash = "51709a536d48a3aa27af5c0316647dc0dc74be79000ecb5262795bb383c9a204"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "83fce03c94bb5497b8db8e44e51a74b5f80c1a141d03780a63272c5655db743a"
-metafile = true
-
-[[files]]
 file = "mods/lambdabettergrass.pw.toml"
 hash = "0e0ad3001c99ec281023ad8fefb7ace9931cb8cbda6d4ed18abf2b47c02320da"
 metafile = true
@@ -381,6 +380,16 @@ metafile = true
 [[files]]
 file = "mods/world-host.pw.toml"
 hash = "8798697e4d0defe66daf75633094d153f3da92e6827759b822793284e203b2ef"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "e3422e30d5b9188e2beadbc2ce69804506fe963a005bdfff865395ca68f2fa86"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "919980794d91ef11531ac64fc9a110f6d8ddebf8a7ed7e851529d2781f55816b"
 metafile = true
 
 [[files]]
