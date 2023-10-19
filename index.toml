@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "2e468d8e8376efe22fe73925621cfc09c67a21143ce4fe02e852d7b4d59743bc"
 
 [[files]]
+file = "config/yosbr/config/betterf3.json"
+hash = "5b725de6ff847aacd066f1ed40244cd1b7c5b839b071b7287fe2bbbb6aa66393"
+
+[[files]]
 file = "config/yosbr/config/iris.properties"
 hash = "ac86b67eeb106f699f3e28801a53a3d49148f61cc37bf9e7a729ca7764a1972b"
 
@@ -32,6 +36,16 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
+metafile = true
+
+[[files]]
+file = "mods/axolotl-buckets.pw.toml"
+hash = "f0d905f176d47c63139e372c9adc0e7538c60f8b4b2d4d359860eb0921b809a6"
 metafile = true
 
 [[files]]
@@ -90,6 +104,11 @@ hash = "738234a75b69eadde29b6ebda5f0be28a3ac7f583d31f9a9a62febd4e784c3b7"
 metafile = true
 
 [[files]]
+file = "mods/draggable-lists.pw.toml"
+hash = "820a6bf2e0555af7e835f94c6e94c5cd8da1bdf2ea6824904030612b9f568919"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "6e6ee1bf66d6977728d3bf5404338c87a0a4ad5260833efcd912aaaca776cf8f"
 metafile = true
@@ -137,6 +156,11 @@ metafile = true
 [[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "eadfa683575620f77806518a35e822bad539aac6358c94db82272751d5c6961d"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "0c4c20d601b15dbc85c275732d9efe9369597503c7d6caa9a7fee217f67073e7"
 metafile = true
 
 [[files]]
@@ -335,6 +359,11 @@ hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
 metafile = true
 
 [[files]]
+file = "mods/visuality.pw.toml"
+hash = "1d0b62685fd74fdd9d8cba3b3f3a85da75423550704646251a39542fce96bcb4"
+metafile = true
+
+[[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "9f6d01028472394a8c3120f1e2a0229d09c77069bdca793159fecc6074aae394"
 metafile = true
@@ -352,6 +381,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cubic-sun-moon.pw.toml"
+hash = "7d8e477e84602d82891c6eedac6783f47708346a8977c75d114e214c672cee58"
 metafile = true
 
 [[files]]
