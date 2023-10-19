@@ -155,6 +155,21 @@ hash = "e160cd9f6d5beb781af38f9b75b88002a5bd65daa566fb3fc3a1e1e036a4c229"
 metafile = true
 
 [[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "a87a5e7a9a1234525c9b2d5259e061317c35e0c863c2b061a2e6d2826c05f152"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-fabric.pw.toml"
+hash = "306d8755c542e99a0b07b76d886030f595e3e55425631f6a7c4c5d7c26888c58"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "51709a536d48a3aa27af5c0316647dc0dc74be79000ecb5262795bb383c9a204"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "83fce03c94bb5497b8db8e44e51a74b5f80c1a141d03780a63272c5655db743a"
 metafile = true
@@ -317,4 +332,14 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "5b488fd021ad1d6195dfdb63ca361be0d7a0941d0ffc6b31f31c53eccd623554"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "1c66dab8ed5239ab02c6778fef2c72aea8bdf18f94408bd13a2b90aefefec9b2"
 metafile = true
