@@ -8,7 +8,6 @@ fullscreen:true
 fov:0.625
 guiScale:3
 maxFps:260
-resourcePacks:["itemswapper/default","lambdabettergrass/default"]
 soundCategory_master:0.25
 soundCategory_music:0.5
 
