@@ -9,8 +9,20 @@ file = "config/yosbr/config/iris.properties"
 hash = "ac86b67eeb106f699f3e28801a53a3d49148f61cc37bf9e7a729ca7764a1972b"
 
 [[files]]
+file = "config/yosbr/config/jade/jade.json"
+hash = "db919eab9583451765f28dcaac7470fb68fa1cb71be82848ccdc4c5cf1e618d7"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "4eeaf979b4770fef4380d3f033d820379d83e719657f5f32ee2b24f5e09b1d37"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "a8ba0f77f9faccae0841a1fe66db26f9539a2f04eb3520d0331fc7eed37187da"
+
+[[files]]
+file = "config/yosbr/shaderpacks/ComplementaryUnbound_r5.0.1.zip.txt"
+hash = "b6a7416060131c0795e245a29ed3148f5df124c6f48a5e74e710eba79aa8cd8e"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
