@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchancement.pw.toml"
-hash = "e329a52a7234b2504062c3e22bc954acc6e470134b07069dfe4ec383078129e0"
+hash = "a3d67ed45a2b4cde25d7e3718ce1fa71297df6f23950b0a12442499b089c59a1"
 metafile = true
 
 [[files]]
@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "5e88e1e38b41f3feea53e18d4bcea09196859b09278953242cd4978b37842d93"
+hash = "ed4487cc1613cc53daa5188730653a4720728971553315dcea7205b28f914f1c"
 metafile = true
 
 [[files]]
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e160cd9f6d5beb781af38f9b75b88002a5bd65daa566fb3fc3a1e1e036a4c229"
+hash = "87ea5bf588ed195eaee3bcbd2432b5671692a203b25b688ffcbfeea6d2cea775"
 metafile = true
 
 [[files]]
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "e2979be57609f1f74666d2f69c003836b8551941e761a79707fbf3f9562dc603"
+hash = "d354dda98d65a789e411d116321bb50a7cbe6852b1f36fa77451068922fa50e7"
 metafile = true
 
 [[files]]
@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "35db6a82738d4c9aa018954164186e6cda92ef9c4739a0412478cf71927d220b"
+hash = "7789ae27a883e09ccf638a0dd6c92307cedf2fd146f170156a4e3ca9f2aa0495"
 metafile = true
 
 [[files]]
