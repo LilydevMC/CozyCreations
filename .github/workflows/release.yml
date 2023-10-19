@@ -1,0 +1,33 @@
+name: Release
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        type: string
+        description: Modpack Version
+        required: true
+
+jobs:
+  run_mrpack_distributor:
+    runs-on: ubuntu-latest
+    name: Release on Modrinth & GitHub Releases
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
+      WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+    steps:
+      - name: Install packwiz
+        uses: actions/setup-go@v4.1.0
+        with:
+          go-version: '1.21.3'
+      - run: go install github.com/packwiz/packwiz@latest
+      - name: Install mrpack-distributor from git repository
+        uses: baptiste0928/cargo-install@v2
+        with:
+          crate: mrpack-distributor
+          git: https://github.com/LilydevMC/mrpack-distributor
+          branch: main
+      - name: Checkout Repository Files
+        uses: actions/checkout@v4
+      - name: Run release
+        run: mrpack-distributor run -dv ${{ github.event.inputs.version }}

@@ -3,10 +3,15 @@
 *.mrpack
 
 README.md
-/icon.png
 
-# exclude aseprite project files
-aseprite
+# exclude asset project files
+project_files
 
-# exclude assets not required
+# exclude larger asset files
 /assets
+
+# workspace/github things
+/.idea
+/.github
+.prettierrc
+mrpack.toml
