@@ -7,3 +7,13 @@ resourcePacks:["itemswapper/default","lambdabettergrass/default"]
 soundCategory_master:0.25
 soundCategory_music:0.5
 
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_key.itemswapper.itemswitcher:key.keyboard.y
+key_key.showmeyourskin.open_settings:key.keyboard.h
+key_key.showmeyourskin.global_toggle:key.keyboard.unknown
+key_key.journeymap.fullscreen.disable_buttons:key.keyboard.unknown
+key_key.journeymap.fullscreen_options:key.keyboard.unknown
+key_key.hide_icons:key.keyboard.unknown
+key_key.voice_chat:key.keyboard.caps.lock
+key_key.push_to_talk:key.keyboard.v
+key_key.voice_chat_group:key.keyboard.unknown
